@@ -1,0 +1,2 @@
+# SISV-G1
+Nombre: Fausto Javier Porras Urbina. Nestor Yashir Gonzales Hernández.  El presente proyecto está orientado en la creación y diseño de un sistema de información para el manejo de inventario y control de rutas de la micro empresa de duces “Dulceria Yohany”, dedicada a la venta de duces de leche a los diferentes sectores del departamento de carazo El sistema a implementar será desarrollado bajo el enfoque de modelo de inventario y control de rutas, este modelo nos permite llevar un control de rutas y un mejor manejo de productos vendidos e existentes.
